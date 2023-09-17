@@ -10,8 +10,6 @@ Hello everyone👋🏾, I'm thrilled to be here today as a junior developer. Whi
 </p>
 
 ---
-
-#
  
 ## 📊 Stats
 ![Fadilix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadilix&show_icons=true&theme=gruvbox)
