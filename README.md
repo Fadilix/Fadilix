@@ -1,11 +1,12 @@
-# 🏄 Fadilix
-**`Digital Craftsman (Developper/Programmer/Creator)`**
+# 🔥 Fadilix
+
+**``Tech Artisan (Developer/Engineer/Creative)``**
 
 
-Contact me : iamfadile7@gmail.com
+**Contact me** : iamfadile7@gmail.com
 
+Hey everyone! 👋 As a junior developer, I'm pumped to be here! Algorithms, web, mobile dev – you name it, I'm ready to dive in and conquer. Let's tackle challenges, craft elegant solutions, and push boundaries together! 🚀💻📱
 
-Hello everyone👋🏾, I'm thrilled to be here today as a junior developer. While I may be at the beginning of my journey in the world of coding, I bring a deep passion for learning and a strong commitment to growth. I'm excited to share with you some of the projects I've been working on and the valuable experiences I've gained so far. So, let's embark on this journey together, and I can't wait to contribute and collaborate with this amazing community of developers.
 <p align="center">
   <a href="https://github.com/Fadilix?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Fadilix?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -16,4 +17,4 @@ Hello everyone👋🏾, I'm thrilled to be here today as a junior developer. Whi
 ---
  
 ## 📊 Stats
-![Fadilix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadilix&show_icons=true&theme=gruvbox)
+![Fadilix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadilix&show_icons=true&theme=dark)
