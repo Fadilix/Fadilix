@@ -1,11 +1,10 @@
 # 🔥 Fadilix
 
-**``Tech Artisan (Developer/Engineer/Creative)``**
+**``Tech Artisann (Engineer/Entrepreneur)``**
 
+**Contact me** : iamfadile3@gmail.com
 
-**Contact me** : iamfadile7@gmail.com
-
-Hey everyone! 👋 As a junior developer, I'm pumped to be here! Algorithms, web, mobile dev – you name it, I'm ready to dive in and conquer. Let's tackle challenges, craft elegant solutions, and push boundaries together! 🚀💻📱
+Hey everyone! 👋
 
 <p align="center">
   <a href="https://github.com/Fadilix?tab=repositories&sort=stargazers">
