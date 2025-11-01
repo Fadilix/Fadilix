@@ -1,6 +1,6 @@
 # 🔥 Fadilix
 
-**``Tech Artisann (Engineer/Entrepreneur)``**
+**``Tech Artisan (Engineer/Entrepreneur)``**
 
 **Contact me** : iamfadile3@gmail.com
 
