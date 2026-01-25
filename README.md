@@ -1,10 +1,6 @@
 # 🔥 Fadilix
 
-**``Tech Artisan (Engineer/Entrepreneur)``**
-
-**Contact me** : iamfadile3@gmail.com
-
-Hey everyone! 👋
+Hey everyone!
 
 <p align="center">
   <a href="https://github.com/Fadilix?tab=repositories&sort=stargazers">
